@@ -1,3 +1,9 @@
-let alphabet = 'abcdefghijklmnopqrstuvwxyz';
-console.log (alphabet)
+function alpha  (str){
+ var alphabet =   'abcdefghijklmnopqrstuvwxyz'
+console.log(alphabet)
+}
+
+alpha()
+
+
 
