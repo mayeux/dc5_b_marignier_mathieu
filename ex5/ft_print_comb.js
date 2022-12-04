@@ -25,5 +25,5 @@ for (const a of chiffres) {
     }
   }
 }
-
+// À test
 console.log(result)
